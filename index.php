@@ -60,7 +60,9 @@
               <p class="card-text">Hardware</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+                <a href="catalogo_productos.php">
                   <button type="button" class="btn btn-sm btn-outline-secondary">Ver</button>
+                </a>
                 </div>
               </div>
             </div>
@@ -75,7 +77,9 @@
               <p class="card-text">Gaming</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+                <a href="catalogo_productos.php">
                   <button type="button" class="btn btn-sm btn-outline-secondary">Ver</button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -89,7 +93,9 @@
               <p class="card-text">Home Office</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+                <a href="catalogo_productos.php">
                   <button type="button" class="btn btn-sm btn-outline-secondary">Ver</button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -102,7 +108,9 @@
               <p class="card-text">Licencias</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+                <a href="catalogo_productos.php">
                   <button type="button" class="btn btn-sm btn-outline-secondary">Ver</button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -134,7 +142,9 @@
               <p class="mb-1">$34.99</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+                <a href="catalogo_productos.php">
                 <button type="button" class="btn btn-sm btn-outline-secondary">Ver</button>
+                </a>
                 </div>
               </div>
             </div>
@@ -142,13 +152,15 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img src="assets/img/7.jpg" alt="Gaming">
+            <img src="assets/img/56.png" alt="Gaming">
             <div class="card-body">
               <p class="card-text">Paneles led RGB</p>
               <p class="mb-1">$87.00</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+                <a href="catalogo_productos.php">
                   <button type="button" class="btn btn-sm btn-outline-secondary">Ver</button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -156,32 +168,40 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img src="assets/img/4444.jpg" alt="homeoffice">
+            <img src="assets/img/57.png" alt="homeoffice">
             <div class="card-body">
-              <p class="card-text">BOTELLA DE TINTA EPSON T574 MAGENTA 70ML</p>
+              <p class="card-text">BOTELLA DE TINTA EPSON MAGENTA</p>
               <p class="mb-1">$10.00</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+                <a href="catalogo_productos.php">
                 <button type="button" class="btn btn-sm btn-outline-secondary">Ver</button>
+                </a>
                 </div>
               </div>
             </div>
           </div>
         </div>
+
         <div class="col">
           <div class="card shadow-sm">
-            <img src="assets/img/42.jpg" alt="Gaming">
+          <img src="assets/img/13.jpg" alt="Homeoffice">
             <div class="card-body">
-              <p class="card-text">LIMPIADOR DE COMPONENTES ELECTRONICOS ALCOHOL ISOPROPILICO NEMAX 120ML</p>
-              <p class="mb-1">$1.50</p>
+            <p class="card-text">Impresora EPSON</p>
+            <p class="mb-1">$105.00</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+                <a href="catalogo_productos.php">
                 <button type="button" class="btn btn-sm btn-outline-secondary">Ver</button>
+                </a>
                 </div>
               </div>
             </div>
           </div>
         </div>
+
+
+
      </div>
      </div>     
 </div>

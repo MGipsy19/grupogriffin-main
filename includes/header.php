@@ -20,7 +20,7 @@
         <li class="nav-item"><a href="/ubicacion.php" class="nav-link link-body-emphasis px-2">Ubicacion</a></li>
       </ul>
       <ul class="nav">
-        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2">Telefono: 7092-4039</a></li>
+        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2">Teléfono: 7092-4039</a></li>
         <li class="nav-item"><a href="https://www.google.com/intl/es/gmail/about/" class="nav-link link-body-emphasis px-2">Email: contacto@grupogriffin.com.sv</a></li>
       </ul>
   
