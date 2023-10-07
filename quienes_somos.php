@@ -28,9 +28,73 @@ Aquí su satisfacción es nuestra prioridad número uno. ¡Esperamos contar con 
     </div>
 
 <br>
-<h3 style="text-align: Rigth; font-family: Arial black;" class="text-light"> Personal</h3>
+<h3 style="text-align: center; font-family: Arial black;" class="text-light"> Personal</h3>
 
-<img src="..." class="img-thumbnail" alt="Personal">
+<div class="album p-1  bg-body-tertiary">
+    <div class="container">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3">
 
+<div class="col">
+          <div class="card shadow-sm">
+          <img src="assets/img/52.jpg" class="img-thumbnail" alt="Personal">
+            <div class="card-body">
+            <p style="text-align: Rigth; font-family: Arial black;">Manuel de Jesus:</p>
+        <p>Gerente </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      <div class="col">
+          <div class="card shadow-sm">
+          <img src="assets/img/53.png" class="img-thumbnail" alt="Personal">
+            <div class="card-body">
+            <p style="text-align: Rigth; font-family: Arial black;">Jesus Castillo:</p>
+        <p>Empleado </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+          <img src="assets/img/54.png" class="img-thumbnail" alt="Personal">
+            <div class="card-body">
+            <p style="text-align: Rigth; font-family: Arial black;">Daniel Rodriguez:</p>
+        <p>Empleado </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+          <img src="assets/img/55.png" class="img-thumbnail" alt="Personal">
+            <div class="card-body">
+            <p style="text-align: Rigth; font-family: Arial black;">Sandra Mendoza:</p>
+        <p>Atencion al cliente </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+      </div>
+    </div>
+  </div>
 </body>
 <?php include('includes/footer.php'); ?>
